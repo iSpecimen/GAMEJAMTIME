@@ -23,19 +23,19 @@ ScriptedImporter:
   - _key: IntGrid_1
     _asset: {instanceID: 0}
   - _key: IntGrid_2
-    _asset: {instanceID: 0}
+    _asset: {fileID: 11400000, guid: 3f03ef097f561c843b01496a027561cf, type: 2}
   - _key: IntGrid_3
-    _asset: {instanceID: 0}
+    _asset: {fileID: 11400000, guid: 3f03ef097f561c843b01496a027561cf, type: 2}
   - _key: IntGrid_4
-    _asset: {instanceID: 0}
+    _asset: {fileID: 11400000, guid: 3f03ef097f561c843b01496a027561cf, type: 2}
   - _key: IntGrid_5
-    _asset: {instanceID: 0}
+    _asset: {fileID: 11400000, guid: 3f03ef097f561c843b01496a027561cf, type: 2}
   - _key: IntGrid_6
-    _asset: {instanceID: 0}
+    _asset: {fileID: 11400000, guid: 3f03ef097f561c843b01496a027561cf, type: 2}
   - _key: IntGrid_7
-    _asset: {instanceID: 0}
+    _asset: {fileID: 11400000, guid: 3f03ef097f561c843b01496a027561cf, type: 2}
   - _key: IntGrid_8
-    _asset: {instanceID: 0}
+    _asset: {fileID: 11400000, guid: 3f03ef097f561c843b01496a027561cf, type: 2}
   _entities: []
   _enumGenerate: 0
   _enumPath: 

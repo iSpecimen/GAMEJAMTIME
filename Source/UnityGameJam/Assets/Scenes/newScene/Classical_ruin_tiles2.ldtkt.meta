@@ -9,8 +9,9 @@ ScriptedImporter:
   assetBundleVariant: 
   script: {fileID: 11500000, guid: f3268c876daf4890b6af6cd462063137, type: 3}
   _reimportOnDependencyChange: 1
-  _pixelsPerUnit: 16
+  _pixelsPerUnit: 5
   _overrideTexture: {instanceID: 0}
   _sprites: []
   _secondaryTextures: []
-  _artifacts: {instanceID: 0}
+  _artifacts: {fileID: -2988177865379244337, guid: f5b89d884ce688e418377c89f2587784,
+    type: 3}
