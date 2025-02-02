@@ -11,7 +11,7 @@ ScriptedImporter:
   _reimportOnDependencyChange: 1
   _jsonFile: {fileID: -164016180542632921, guid: 17d4474f2b9b9974b8f0ce5f29f8ed31,
     type: 3}
-  _pixelsPerUnit: 16
+  _pixelsPerUnit: 5
   _customLevelPrefab: {instanceID: 0}
   _intGridValueColorsVisible: 0
   _useCompositeCollider: 1
@@ -34,17 +34,7 @@ ScriptedImporter:
     _asset: {instanceID: 0}
   - _key: IntGrid_7
     _asset: {instanceID: 0}
-  - _key: Collision_layer_1
-    _asset: {instanceID: 0}
-  - _key: Collision_layer_2
-    _asset: {instanceID: 0}
-  - _key: Collision_layer_3
-    _asset: {instanceID: 0}
-  - _key: Collision_layer_4
-    _asset: {instanceID: 0}
-  - _key: Collision_layer_5
-    _asset: {instanceID: 0}
-  - _key: Collision_layer_6
+  - _key: IntGrid_8
     _asset: {instanceID: 0}
   _entities: []
   _enumGenerate: 0
