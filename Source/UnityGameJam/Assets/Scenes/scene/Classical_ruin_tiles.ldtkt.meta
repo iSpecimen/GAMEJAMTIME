@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 153edb5cd20bacc4fad4290db6d13f02
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {instanceID: 0}
+  _reimportOnDependencyChange: 1
+  _pixelsPerUnit: 16
+  _overrideTexture: {instanceID: 0}
+  _sprites: []
+  _secondaryTextures: []
+  _artifacts: {instanceID: 0}
