@@ -2902,7 +2902,11 @@
 			"__cHei": 43,
 			"identifier": "Classical_ruin_tiles",
 			"uid": 310,
+<<<<<<< Updated upstream
 			"relPath": "../assets added/Scenes/newScene/classical_ruin_tiles.png",
+=======
+			"relPath": "../Scenes/newScene/classical_ruin_tiles.png",
+>>>>>>> Stashed changes
 			"embedAtlas": null,
 			"pxWid": 640,
 			"pxHei": 256,
@@ -2952,7 +2956,11 @@
 					"__pxTotalOffsetX": 0,
 					"__pxTotalOffsetY": 0,
 					"__tilesetDefUid": 310,
+<<<<<<< Updated upstream
 					"__tilesetRelPath": "../assets added/Scenes/newScene/classical_ruin_tiles.png",
+=======
+					"__tilesetRelPath": "../Scenes/newScene/classical_ruin_tiles.png",
+>>>>>>> Stashed changes
 					"iid": "5b33ff20-c210-11ef-b6c9-03d4c8ec4464",
 					"levelId": 0,
 					"layerDefUid": 241,
@@ -3852,7 +3860,11 @@
 					"__pxTotalOffsetX": 0,
 					"__pxTotalOffsetY": 0,
 					"__tilesetDefUid": 310,
+<<<<<<< Updated upstream
 					"__tilesetRelPath": "../assets added/Scenes/newScene/classical_ruin_tiles.png",
+=======
+					"__tilesetRelPath": "../Scenes/newScene/classical_ruin_tiles.png",
+>>>>>>> Stashed changes
 					"iid": "3355e870-c210-11ef-b6c9-276d2441d62f",
 					"levelId": 0,
 					"layerDefUid": 173,
@@ -16894,7 +16906,11 @@
 					"__pxTotalOffsetX": 0,
 					"__pxTotalOffsetY": 0,
 					"__tilesetDefUid": 310,
+<<<<<<< Updated upstream
 					"__tilesetRelPath": "../assets added/Scenes/newScene/classical_ruin_tiles.png",
+=======
+					"__tilesetRelPath": "../Scenes/newScene/classical_ruin_tiles.png",
+>>>>>>> Stashed changes
 					"iid": "2b288330-c210-11ef-8874-8fd9cd534978",
 					"levelId": 0,
 					"layerDefUid": 322,
@@ -17265,7 +17281,11 @@
 					"__pxTotalOffsetX": 0,
 					"__pxTotalOffsetY": 0,
 					"__tilesetDefUid": 310,
+<<<<<<< Updated upstream
 					"__tilesetRelPath": "../assets added/Scenes/newScene/classical_ruin_tiles.png",
+=======
+					"__tilesetRelPath": "../Scenes/newScene/classical_ruin_tiles.png",
+>>>>>>> Stashed changes
 					"iid": "a1265a80-c210-11ef-8874-990134610487",
 					"levelId": 0,
 					"layerDefUid": 323,
@@ -17520,7 +17540,11 @@
 					"__pxTotalOffsetX": 0,
 					"__pxTotalOffsetY": 0,
 					"__tilesetDefUid": 310,
+<<<<<<< Updated upstream
 					"__tilesetRelPath": "../assets added/Scenes/newScene/classical_ruin_tiles.png",
+=======
+					"__tilesetRelPath": "../Scenes/newScene/classical_ruin_tiles.png",
+>>>>>>> Stashed changes
 					"iid": "cc481c00-c210-11ef-b6c9-95216770c103",
 					"levelId": 0,
 					"layerDefUid": 245,
@@ -18754,7 +18778,11 @@
 					"__pxTotalOffsetX": 0,
 					"__pxTotalOffsetY": 0,
 					"__tilesetDefUid": 310,
+<<<<<<< Updated upstream
 					"__tilesetRelPath": "../assets added/Scenes/newScene/classical_ruin_tiles.png",
+=======
+					"__tilesetRelPath": "../Scenes/newScene/classical_ruin_tiles.png",
+>>>>>>> Stashed changes
 					"iid": "0db9cae0-c210-11ef-8874-5fa2de313642",
 					"levelId": 0,
 					"layerDefUid": 321,
@@ -19311,7 +19339,11 @@
 					"__pxTotalOffsetX": 0,
 					"__pxTotalOffsetY": 0,
 					"__tilesetDefUid": 310,
+<<<<<<< Updated upstream
 					"__tilesetRelPath": "../assets added/Scenes/newScene/classical_ruin_tiles.png",
+=======
+					"__tilesetRelPath": "../Scenes/newScene/classical_ruin_tiles.png",
+>>>>>>> Stashed changes
 					"iid": "f685f9d0-c210-11ef-b6c9-99499d11b495",
 					"levelId": 0,
 					"layerDefUid": 169,
@@ -19336,7 +19368,11 @@
 					"__pxTotalOffsetX": 0,
 					"__pxTotalOffsetY": 0,
 					"__tilesetDefUid": 310,
+<<<<<<< Updated upstream
 					"__tilesetRelPath": "../assets added/Scenes/newScene/classical_ruin_tiles.png",
+=======
+					"__tilesetRelPath": "../Scenes/newScene/classical_ruin_tiles.png",
+>>>>>>> Stashed changes
 					"iid": "729f1f90-c210-11ef-a066-e13226340796",
 					"levelId": 0,
 					"layerDefUid": 305,
@@ -40333,7 +40369,11 @@
 					"__pxTotalOffsetX": 0,
 					"__pxTotalOffsetY": 0,
 					"__tilesetDefUid": 310,
+<<<<<<< Updated upstream
 					"__tilesetRelPath": "../assets added/Scenes/newScene/classical_ruin_tiles.png",
+=======
+					"__tilesetRelPath": "../Scenes/newScene/classical_ruin_tiles.png",
+>>>>>>> Stashed changes
 					"iid": "ff155e71-c210-11ef-99ce-0ff4225401a3",
 					"levelId": 324,
 					"layerDefUid": 241,
@@ -40634,7 +40674,11 @@
 					"__pxTotalOffsetX": 0,
 					"__pxTotalOffsetY": 0,
 					"__tilesetDefUid": 310,
+<<<<<<< Updated upstream
 					"__tilesetRelPath": "../assets added/Scenes/newScene/classical_ruin_tiles.png",
+=======
+					"__tilesetRelPath": "../Scenes/newScene/classical_ruin_tiles.png",
+>>>>>>> Stashed changes
 					"iid": "ff153761-c210-11ef-99ce-cdcb3171d252",
 					"levelId": 324,
 					"layerDefUid": 173,
@@ -42989,7 +43033,11 @@
 					"__pxTotalOffsetX": 0,
 					"__pxTotalOffsetY": 0,
 					"__tilesetDefUid": 310,
+<<<<<<< Updated upstream
 					"__tilesetRelPath": "../assets added/Scenes/newScene/classical_ruin_tiles.png",
+=======
+					"__tilesetRelPath": "../Scenes/newScene/classical_ruin_tiles.png",
+>>>>>>> Stashed changes
 					"iid": "ff155e70-c210-11ef-99ce-e3813a0a2772",
 					"levelId": 324,
 					"layerDefUid": 322,
@@ -43014,7 +43062,11 @@
 					"__pxTotalOffsetX": 0,
 					"__pxTotalOffsetY": 0,
 					"__tilesetDefUid": 310,
+<<<<<<< Updated upstream
 					"__tilesetRelPath": "../assets added/Scenes/newScene/classical_ruin_tiles.png",
+=======
+					"__tilesetRelPath": "../Scenes/newScene/classical_ruin_tiles.png",
+>>>>>>> Stashed changes
 					"iid": "ff155e72-c210-11ef-99ce-7389ef6dcfba",
 					"levelId": 324,
 					"layerDefUid": 323,
@@ -43817,7 +43869,11 @@
 					"__pxTotalOffsetX": 0,
 					"__pxTotalOffsetY": 0,
 					"__tilesetDefUid": 310,
+<<<<<<< Updated upstream
 					"__tilesetRelPath": "../assets added/Scenes/newScene/classical_ruin_tiles.png",
+=======
+					"__tilesetRelPath": "../Scenes/newScene/classical_ruin_tiles.png",
+>>>>>>> Stashed changes
 					"iid": "ff155e73-c210-11ef-99ce-45dc561d7fda",
 					"levelId": 324,
 					"layerDefUid": 245,
@@ -48511,7 +48567,11 @@
 					"__pxTotalOffsetX": 0,
 					"__pxTotalOffsetY": 0,
 					"__tilesetDefUid": 310,
+<<<<<<< Updated upstream
 					"__tilesetRelPath": "../assets added/Scenes/newScene/classical_ruin_tiles.png",
+=======
+					"__tilesetRelPath": "../Scenes/newScene/classical_ruin_tiles.png",
+>>>>>>> Stashed changes
 					"iid": "ff155e74-c210-11ef-99ce-834fcf2605eb",
 					"levelId": 324,
 					"layerDefUid": 321,
@@ -48536,7 +48596,11 @@
 					"__pxTotalOffsetX": 0,
 					"__pxTotalOffsetY": 0,
 					"__tilesetDefUid": 310,
+<<<<<<< Updated upstream
 					"__tilesetRelPath": "../assets added/Scenes/newScene/classical_ruin_tiles.png",
+=======
+					"__tilesetRelPath": "../Scenes/newScene/classical_ruin_tiles.png",
+>>>>>>> Stashed changes
 					"iid": "ff158580-c210-11ef-99ce-81435a198d30",
 					"levelId": 324,
 					"layerDefUid": 169,
@@ -48561,7 +48625,11 @@
 					"__pxTotalOffsetX": 0,
 					"__pxTotalOffsetY": 0,
 					"__tilesetDefUid": 310,
+<<<<<<< Updated upstream
 					"__tilesetRelPath": "../assets added/Scenes/newScene/classical_ruin_tiles.png",
+=======
+					"__tilesetRelPath": "../Scenes/newScene/classical_ruin_tiles.png",
+>>>>>>> Stashed changes
 					"iid": "ff158581-c210-11ef-99ce-ddbb2f636fe7",
 					"levelId": 324,
 					"layerDefUid": 305,

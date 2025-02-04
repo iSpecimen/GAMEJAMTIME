@@ -18,7 +18,11 @@
     "padding": 0,
     "pxHei": 256,
     "pxWid": 640,
+<<<<<<< Updated upstream
     "relPath": "../assets added/Scenes/newScene/classical_ruin_tiles.png",
+=======
+    "relPath": "../Scenes/newScene/classical_ruin_tiles.png",
+>>>>>>> Stashed changes
     "savedSelections": [
 
     ],
